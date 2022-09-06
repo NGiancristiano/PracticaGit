@@ -92,4 +92,5 @@ let concesionaria = {
 //Al menos hicimos la tarea con tiempo, también pensé que era para antes.
 
 
+console.log("Un placer trabajar contigo Andres :)")
 
