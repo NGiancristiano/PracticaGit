@@ -1,1 +1,1 @@
-console.log("este es el segundo archivo")
+console.log("este es el segundo archivo, hecho por nicolas")
