@@ -89,5 +89,5 @@ let concesionaria = {
    }
 };
 
-
+console.log("Un placer trabajar contigo Andres :)")
 
